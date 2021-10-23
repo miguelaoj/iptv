@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:0,------------ |SP| CALIDAD HD -------------
 #EXTINF:0 group-title="CALIDAD HD",|SP| TVE INTERNACIONAL HD
 http://45.150.95.42:80/307241151162/307241151162/79362
