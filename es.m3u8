@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-
-
-#EXTINF:0 group-title="MOVISTAR +"
-#EXTINF:0,|ES| MOVISTAR LA LIGA FHD
+#EXTINF:0 group-title="MOVISTAR +",|ES| MOVISTAR LA LIGA FHD
 http://trial.myinstanttv.com:8080/play/tKWJ7spH5COyLXXvd_UEM4gmaSSWXabRBbvz1-D3ewofs5UmKHf1fnAn-QoAZP5k/ts
 #EXTINF:0,|ES| MOVISTAR LA LIGA 1 FHD
 http://trial.myinstanttv.com:8080/play/tKWJ7spH5COyLXXvd_UEM7TET4gOrIXwIAGCuSwgRI_TucoImCke-45zpmdjAJwd/ts
@@ -437,9 +434,6 @@ http://trial.myinstanttv.com:8080/play/tKWJ7spH5COyLXXvd_UEMydR1aUmUqGrNh-PBkLcY
 http://trial.myinstanttv.com:8080/play/tKWJ7spH5COyLXXvd_UEMydR1aUmUqGrNh-PBkLcYKybGL6AneVFINQ1JJx2Nk9i/ts
 #EXTINF:0,|ES| TAQUILLA STAR WARS
 http://trial.myinstanttv.com:8080/play/tKWJ7spH5COyLXXvd_UEMydR1aUmUqGrNh-PBkLcYKw_pkmAJ759omu2QJ42LutD/ts
-
-
-
 
 
 #EXTINF:-1 group-title="Premium",▬ Spain [ES] ▬
@@ -1285,7 +1279,7 @@ http://45.150.95.42:80/307241151162/307241151162/171903
 
 
 
-#EXTINF:0 group-title="PELÍCULAS EN ESPAÑOL",Godzilla vs. Kong (2021)
+#EXTINF:0 group-title="PELICULAS EN ESPANOL",Godzilla vs. Kong (2021)
 http://trial.myinstanttv.com:8080/play/J1xyQJLT--DhqXYU0EbshB5s33fdc-rpdFI4GonKoiW91Bi35cmmL8n8vqd_70fn
 #EXTINF:0,Nadie (2021)
 http://trial.myinstanttv.com:8080/play/J1xyQJLT--DhqXYU0EbshB5s33fdc-rpdFI4GonKoiXtHTJYmUhL3FGsIeAmQWH0
